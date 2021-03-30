@@ -1,0 +1,4 @@
+2021-03-30 17:02:47.797 -04:00 [INF] PowerShell runtime version: 5.1.19041.610, edition: Desktop
+2021-03-30 17:02:49.568 -04:00 [INF] highlight handler loaded
+2021-03-30 17:02:52.908 -04:00 [INF] Unable to find PSSA settings file at 'c:\Users\ceyou\Downloads\PowershellScriptingInaMonthofLunches\ScriptingExamples\PSScriptAnalyzerSettings.psd1'. Loading default rules.
+2021-03-30 17:02:52.915 -04:00 [INF] PSScriptAnalyzer settings file not found. Falling back to default rules
